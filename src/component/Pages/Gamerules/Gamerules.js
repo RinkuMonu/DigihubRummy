@@ -456,7 +456,7 @@ export default function Cancel() {
                                     <b>Losing	Points:</b> The	loser/losers	get	total	points	based	on	their	card	values
                                 </p>
                                 <p>
-                                    <b>Winner:</b> <br /> (Entry	Fee)	– FINUNIQUE	SMALL	Gaming Fees =	Winning	Amount.
+                                    <b>Winner:</b> <br /> (Entry	Fee)	–DigiHUb	SMALL	Gaming Fees =	Winning	Amount.
                                 </p>
                                 <p>
                                     <b>Winning	Points:</b> The	winner	gets	zero	points

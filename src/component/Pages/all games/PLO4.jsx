@@ -62,7 +62,7 @@ function PLO4() {
                         extra hole cards, PLO 4 sees more powerful hands, bigger
                         pots, and higher aggression, making it a preferred
                         choice for players who enjoy fast-paced and strategic
-                        Poker gameplay.<br /> On Finunique, PLO 4 is available in cash
+                        Poker gameplay.<br /> OnDigiHUb, PLO 4 is available in cash
                         games and tournaments, providing an authentic and fair
                         gaming experience with a secure platform and exciting
                         rewards.
@@ -169,11 +169,11 @@ function PLO4() {
       <div class="container mt-4 p-5" style={{ backgroundColor: "#09333c" }}>
         <h2 class="text-center mb-4 text-white">
           {" "}
-          Why Play PLO 4 on Finunique?
+          Why Play PLO 4 onDigiHUb?
         </h2>
         <p className="text-white text-center pb-3">
-        Finunique offers the best PLO 4 Poker experience, providing a secure, fair, and action-packed gaming environment for all players.
-Here’s why you should play PLO 4 on Finunique:
+       DigiHUb offers the best PLO 4 Poker experience, providing a secure, fair, and action-packed gaming environment for all players.
+Here’s why you should play PLO 4 onDigiHUb:
 
         </p>
         <div class="row">
@@ -344,7 +344,7 @@ Key Strategies for PLO 4 Success:
                 <p className="text-black fw-semilight fs-21 ">
                 PLO 4 is a perfect mix of skill, action, and big hands, making it one of the most exciting Poker variants. Unlike Texas Hold’em, where the game is often dominated by pre-flop aggression, PLO 4 requires strong post-flop play, strategic decision-making, and reading opponents effectively.<br />
 With four hole cards in play, the action is intense, and the possibility of big pots and huge wins keeps the excitement level high.
-If you’re looking for a high-stakes, strategy-driven Poker experience, join PLO 4 tables on Finunique today and take your Poker skills to the next level!
+If you’re looking for a high-stakes, strategy-driven Poker experience, join PLO 4 tables onDigiHUb today and take your Poker skills to the next level!
 
                 </p>
               </div>

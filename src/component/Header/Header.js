@@ -52,12 +52,12 @@ export default function Header() {
                     <nav className="navbar navbar-expand-lg navbar-light">
                         <Link to="/" className="navbar-brand d-flex align-items-center">
                             <img
-                                alt="Finunique-logo"
+                                alt="DigiHUb-logo"
                                 loading="lazy"
-                                width="50"
-                                height="32"
+                                width="100"
+                                height="100"
                                 className="img-fluid"
-                                src="./images/logo.png"
+                                src="./images/logo.jpg"
                             />
                         </Link>
 

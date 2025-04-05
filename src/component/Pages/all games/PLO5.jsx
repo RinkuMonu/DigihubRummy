@@ -56,7 +56,7 @@ function PLO5() {
                             PLO 5 (Pot-Limit Omaha 5) is an exciting and strategic variant of Omaha Poker that adds an extra layer of complexity and thrill to the game. <br />Unlike traditional Texas Hold’em, where players receive only two hole cards, and PLO 4, where they receive four, in PLO 5, each player is dealt five hole cards.
 The rules follow the Pot-Limit betting structure, meaning that players can bet up to the total size of the pot at any given time.<br /> However, the catch is that players must use exactly two hole cards and three community cards to form the best five-card hand.
 With five hole cards in hand, players have more potential hand combinations, making the game much more action-packed, dynamic, and strategy-intensive. <br />PLO 5 is a favorite among high-stakes and aggressive players who thrive on big pots, calculated risks, and fast-paced gameplay.<br />
-On Finunique, PLO 5 is available in cash games and tournaments, providing an authentic and fair Poker experience with a secure gaming environment.
+OnDigiHUb, PLO 5 is available in cash games and tournaments, providing an authentic and fair Poker experience with a secure gaming environment.
                             </p>
                           </div>
                         </div>
@@ -162,11 +162,11 @@ On Finunique, PLO 5 is available in cash games and tournaments, providing an aut
             <div class="container mt-4 p-5" style={{ backgroundColor: "#09333c" }}>
               <h2 class="text-center mb-4 text-white">
                 {" "}
-                Why Play PLO 5 on Finunique?
+                Why Play PLO 5 onDigiHUb?
               </h2>
               <p className="text-white text-center pb-3">
-              Finunique provides the best platform for playing PLO 5 Poker, ensuring players have access to fair, secure, and high-action games with real money winnings.
-Here’s why Finuniqueis the preferred choice for PLO 5 players:
+             DigiHUb provides the best platform for playing PLO 5 Poker, ensuring players have access to fair, secure, and high-action games with real money winnings.
+Here’s whyDigiHUbis the preferred choice for PLO 5 players:
 
               </p>
               <div class="row">
@@ -239,7 +239,7 @@ Here’s why Finuniqueis the preferred choice for PLO 5 players:
 
                     </div>
                   </div>
-                  <p className='text-white ms-5 pt-4'>Whether you’re a seasoned PLO player or a beginner looking to learn, Finunique provides an authentic and rewarding Poker experience.</p>
+                  <p className='text-white ms-5 pt-4'>Whether you’re a seasoned PLO player or a beginner looking to learn,DigiHUb provides an authentic and rewarding Poker experience.</p>
                 </div>
               </div>
             </div>
@@ -346,7 +346,7 @@ Key Strategies for Success in PLO 5:
                       <p className="text-black fw-semilight fs-21 ">
                       PLO 5 is a thrilling mix of skill, action, and strategic depth. Unlike Texas Hold’em, where hands are often dominated pre-flop, PLO 5 creates unpredictable and exciting gameplay, making it one of the most entertaining Poker variants.<br />
 With five hole cards in play, players experience more hand possibilities, bigger pots, and intense competition, making it a perfect choice for those who love action-packed Poker games.<br />
-If you’re ready to test your skills, challenge top players, and win big, join PLO 5 tables on Finunique today and enjoy the most thrilling Poker experience available online!
+If you’re ready to test your skills, challenge top players, and win big, join PLO 5 tables onDigiHUb today and enjoy the most thrilling Poker experience available online!
 
 
                       </p>

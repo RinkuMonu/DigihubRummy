@@ -61,7 +61,7 @@ export default function DealsRummy() {
 
                         </h2>
                         <p>Deals Rummy is an exciting variation of 13-card Rummy that is played over a fixed number of rounds, called deals. Unlike Points Rummy, where a winner is decided in a single round, Deals Rummy allows players to compete across multiple deals, making it more strategic and engaging. Every player starts with a predefined number of chips, and at the end of each deal, the losing players transfer chips to the winner. The game continues for the set number of deals, and the player with the highest number of chips at the end emerges as the final winner.
-                            Deals Rummy is a perfect balance of luck and strategy. Since the game is not decided in a single hand, players have the chance to recover from an early loss and strategize for future rounds. The key to success lies in consistency, smart card discarding, and efficient use of jokers. At Finunique, we offer the best Deals Rummy experience with real-money rewards, exciting challenges, and fair play features. Whether you're playing casually or aiming for big wins, Deals Rummy on Finunique provides a seamless and rewarding gaming experience.
+                            Deals Rummy is a perfect balance of luck and strategy. Since the game is not decided in a single hand, players have the chance to recover from an early loss and strategize for future rounds. The key to success lies in consistency, smart card discarding, and efficient use of jokers. AtDigiHUb, we offer the best Deals Rummy experience with real-money rewards, exciting challenges, and fair play features. Whether you're playing casually or aiming for big wins, Deals Rummy onDigiHUb provides a seamless and rewarding gaming experience.
                         </p>
 
                     </div>
@@ -207,7 +207,7 @@ export default function DealsRummy() {
                 </div>
                 <div className='row my-4 align-items-center'>
                     <div className='col-md-12 text-center my-4'>
-                        <h4>Why Play Deals Rummy on Finunique?
+                        <h4>Why Play Deals Rummy onDigiHUb?
 
                         </h4>
                         <p>At Finun, we provide the best online Deals Rummy experience with advanced features, exciting rewards, and fair play policies. Here’s why players love Deals Rummy on our platform:
@@ -229,7 +229,7 @@ export default function DealsRummy() {
                                 </li>
                             ))}
                         </ul>
-                        <p>Join Finunique today and experience Deals Rummy like never before. Compete with real players, test your skills, and win big!</p>
+                        <p>JoinDigiHUb today and experience Deals Rummy like never before. Compete with real players, test your skills, and win big!</p>
                     </div>
                 </div>
                 <div className='row my-4 align-items-center'>
@@ -239,8 +239,8 @@ export default function DealsRummy() {
                     </div>
                     <div className='col-md-6'>
                         <p>Deals Rummy is a game of skill, strategy, and patience. Unlike single-round formats, it offers multiple chances to recover from losses, making it ideal for players who enjoy long-term strategic gameplay. Each deal presents new challenges, and the ability to analyze opponents, form sequences quickly, and minimize penalty points determines the winner.
-                            With Finunique , you can enjoy Deals Rummy in a safe, fair, and highly rewarding environment. Whether you're a beginner or an experienced player, understanding the rules and applying smart strategies will significantly improve your chances of winning.
-                            So, why wait? Sign up on Finunique now and start playing Deals Rummy like a pro!
+                            WithDigiHUb , you can enjoy Deals Rummy in a safe, fair, and highly rewarding environment. Whether you're a beginner or an experienced player, understanding the rules and applying smart strategies will significantly improve your chances of winning.
+                            So, why wait? Sign up onDigiHUb now and start playing Deals Rummy like a pro!
                         </p>
 
                     </div>

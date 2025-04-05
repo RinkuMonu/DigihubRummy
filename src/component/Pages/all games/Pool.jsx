@@ -30,7 +30,7 @@ function Pool() {
             <p>
               Pool is a popular cue sport played worldwide, combining skill, precision, and strategy. It is played on a rectangular table with six pockets, using a cue stick and colored balls. The primary objective varies depending on the variation being played, but the main goal remains the same: to pocket the balls in a specific order while using strategic positioning and shot accuracy.
               Pool is often confused with snooker and billiards, but the main difference is in the table size, number of balls, and game rules. Unlike casual pool games played in clubs, online Pool Games bring the thrill of competitive gameplay, real-time matches, and cash rewards right to your fingertips.
-              On Finunique, players can experience an authentic Pool gaming environment, where they can play against real opponents, hone their cue skills, and win exciting prizes. Whether you're a casual player looking for fun or a competitive gamer aiming for top ranks, Finunique offers a fair, secure, and engaging gaming platform for Pool lovers across India.
+              OnDigiHUb, players can experience an authentic Pool gaming environment, where they can play against real opponents, hone their cue skills, and win exciting prizes. Whether you're a casual player looking for fun or a competitive gamer aiming for top ranks,DigiHUb offers a fair, secure, and engaging gaming platform for Pool lovers across India.
             </p>
           </div>
           <div className='col-md-6'>
@@ -169,8 +169,8 @@ function Pool() {
           <h2>Final Thoughts</h2>
           <p>Pool is a timeless game of skill, patience, and strategic thinking...</p>
           <p>Pool is a timeless game of skill, patience, and strategic thinking. Whether you enjoy casual gameplay or high-stakes competition, mastering Pool requires a combination of technical precision, mental agility, and smart shot selection.
-            On Finunique, players can experience real-time competitive Pool action, compete in thrilling tournaments, and win big cash rewards. Our secure and fair gaming platform ensures an authentic experience, where skill and strategy lead to victory.
-            So, are you ready to take your Pool game to the next level? Join Finunique today and start competing with the best players in India!
+            OnDigiHUb, players can experience real-time competitive Pool action, compete in thrilling tournaments, and win big cash rewards. Our secure and fair gaming platform ensures an authentic experience, where skill and strategy lead to victory.
+            So, are you ready to take your Pool game to the next level? JoinDigiHUb today and start competing with the best players in India!
           </p>
         </section>
       </div>

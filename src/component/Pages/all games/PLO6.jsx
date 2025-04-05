@@ -64,7 +64,7 @@ function PLO6() {
                         making it perfect for players who love thrill, strategy,
                         and high-risk, high-reward gameplay.
                         <br />
-                        Finunique offers a secure and fair PLO 6 experience,
+                       DigiHUb offers a secure and fair PLO 6 experience,
                         where players can enjoy cash games and tournaments with
                         competitive action and massive winnings.{" "}
                       </p>
@@ -177,10 +177,10 @@ function PLO6() {
       <div class="container mt-4 p-5" style={{ backgroundColor: "#09333c" }}>
         <h2 class="text-center mb-4 text-white">
           {" "}
-          Why Play PLO 6 on Finunique?
+          Why Play PLO 6 onDigiHUb?
         </h2>
         <p className="text-white text-center pb-3">
-        Finunique is one of the best platforms to play PLO 6, offering a secure and competitive Poker environment for all skill levels. Here’s why Finuniqueis the preferred choice for PLO 6
+       DigiHUb is one of the best platforms to play PLO 6, offering a secure and competitive Poker environment for all skill levels. Here’s whyDigiHUbis the preferred choice for PLO 6
           players:
         </p>
         <div class="row">
@@ -250,7 +250,7 @@ function PLO6() {
               </div>
             </div>
             <p className="text-white ms-5 pt-4">
-            Whether you’re a casual player or a Poker pro, Finunique offers an authentic and action-packed PLO 6 experience with exciting rewards.
+            Whether you’re a casual player or a Poker pro,DigiHUb offers an authentic and action-packed PLO 6 experience with exciting rewards.
             </p>
           </div>
         </div>
@@ -352,7 +352,7 @@ Key Strategies for PLO 6 Success:
                 <p className="text-black fw-semilight fs-21 ">
                 PLO 6 is a highly engaging and strategic Poker variant, offering players more hand possibilities, bigger pots, and non-stop action. <br />Unlike Texas Hold’em, where pre-flop aggression dominates, PLO 6 focuses more on post-flop play, hand reading, and calculated decision-making.<br />
 With six hole cards, the game is more unpredictable and thrilling, making it a favorite among players who love big hands and deep strategy.<br />
-If you're ready for an adrenaline-filled Poker experience, join PLO 6 tables on Finunique today and take your Poker game to the next level!
+If you're ready for an adrenaline-filled Poker experience, join PLO 6 tables onDigiHUb today and take your Poker game to the next level!
                 </p>
               </div>
             </div>

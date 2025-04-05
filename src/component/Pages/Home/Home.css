@@ -9,9 +9,9 @@ a{
 
 }
 .hero-section .hero-img{
-    padding-top: 58px;
+    padding-top: 128px;
 }
-#top-header nav a, .finuniqueDropdown button{
+#top-header nav a, .DigiHUbDropdown button{
     font-size: 16px;
     line-height: 24px;
     color: #230046 !important;

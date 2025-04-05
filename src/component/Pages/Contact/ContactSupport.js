@@ -59,7 +59,7 @@ const ContactSupport = () => {
 
             <h5 className="fw-bold">Mail</h5>
             <p className="text-muted">
-              <strong>info@FinUniquerummy.com</strong>
+              <strong>info@DigihubRummy.com</strong>
             </p>
           </div>
         </Col>

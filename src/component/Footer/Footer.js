@@ -43,7 +43,7 @@ export default function Footer() {
                                     <li>
                                         <img src="./images/send-mail.png" width={20} style={{ height: "100%", marginRight: '10px' }} alt="location" className="flaticon-facebook-app-symbol img-fluid" />
 
-                                        <a href="mailto:info@7unique.in">info@finuniquerummy.com</a>
+                                        <a href="mailto:info@7unique.in">info@DigihubRummy.com</a>
                                     </li>
                                     <li>
                                         <img src="./images/phone-call.png" width={20} style={{ height: "100%", marginRight: '10px' }} alt="location" className="flaticon-facebook-app-symbol img-fluid" />
@@ -109,7 +109,7 @@ export default function Footer() {
                                 </ul>
                             </div>
                         </div>
-                        <div class="secondary-footer border-top mx-3 pt-3"><div class="container"><div class="copyright"><div class="row align-items-center"><div class="col-md-12 text-center">© 2025 @Finunique Small Private Limited. All rights reserved.</div></div></div></div></div>
+                        <div class="secondary-footer border-top mx-3 pt-3"><div class="container"><div class="copyright"><div class="row align-items-center"><div class="col-md-12 text-center">© 2025 @Digihub Tech Solutions Pvt Ltd. All rights reserved.</div></div></div></div></div>
                     </div>
                 </div>
             </footer>

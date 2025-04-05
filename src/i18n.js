@@ -10,7 +10,7 @@ const resources = {
       "about": "About",
       "blog": "Blog",
       "faqs": "FAQs",
-      "finuniqueGames": "Finunique Games"
+      "DigiHUbGames": "DigiHUb Games"
     }
   },
   hi: {
@@ -20,7 +20,7 @@ const resources = {
       "about": "हमारे बारे में",
       "blog": "ब्लॉग",
       "faqs": "सामान्य प्रश्न",
-      "finuniqueGames": "फिन्यूनिक गेम्स"
+      "DigiHUbGames": "फिन्यूनिक गेम्स"
     }
   },
   gu: {
@@ -30,7 +30,7 @@ const resources = {
       "about": "અમારા વિશે",
       "blog": "બ્લૉગ",
       "faqs": "પ્રશ્નો",
-      "finuniqueGames": "ફિનયૂનિક ગેમ્સ"
+      "DigiHUbGames": "ફિનયૂનિક ગેમ્સ"
     }
   },
   mr: {
@@ -40,7 +40,7 @@ const resources = {
       "about": "आमच्याविषयी",
       "blog": "ब्लॉग",
       "faqs": "सामान्य प्रश्न",
-      "finuniqueGames": "फिन्यूनिक गेम्स"
+      "DigiHUbGames": "फिन्यूनिक गेम्स"
     }
   },
   bn: {
@@ -50,7 +50,7 @@ const resources = {
       "about": "আমাদের সম্পর্কে",
       "blog": "ব্লগ",
       "faqs": "প্রশ্নাবলী",
-      "finuniqueGames": "ফিনিউনিক গেমস"
+      "DigiHUbGames": "ফিনিউনিক গেমস"
     }
   },
   ta: {
@@ -60,7 +60,7 @@ const resources = {
       "about": "எங்களை பற்றி",
       "blog": "வலைப்பதிவு",
       "faqs": "கேள்விகள்",
-      "finuniqueGames": "பின்யூனிக் விளையாட்டுகள்"
+      "DigiHUbGames": "பின்யூனிக் விளையாட்டுகள்"
     }
   },
   te: {
@@ -70,7 +70,7 @@ const resources = {
       "about": "మా గురించి",
       "blog": "బ్లాగ్",
       "faqs": "ప్రశ్నలు",
-      "finuniqueGames": "ఫిన్యూనిక్ గేమ్స్"
+      "DigiHUbGames": "ఫిన్యూనిక్ గేమ్స్"
     }
   },
   kn: {
@@ -80,7 +80,7 @@ const resources = {
       "about": "ನಮ್ಮ ಬಗ್ಗೆ",
       "blog": "ಬ್ಲಾಗ್",
       "faqs": "ಪ್ರಶ್ನೆಗಳು",
-      "finuniqueGames": "ಫಿನ್ಯೂನಿಕ್ ಗೇಮ್ಸ್"
+      "DigiHUbGames": "ಫಿನ್ಯೂನಿಕ್ ಗೇಮ್ಸ್"
     }
   }
 };

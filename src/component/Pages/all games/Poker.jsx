@@ -41,11 +41,11 @@ function Poker() {
                 Hold'em, Pot-Limit Omaha (PLO) 4, PLO 5, and PLO 6 offer unique
                 challenges and strategies, making Poker a thrilling experience.{" "}
                 <br />
-                At Finunique, we offer a safe, fair, and competitive Poker
+                AtDigiHUb, we offer a safe, fair, and competitive Poker
                 gaming environment where players can enjoy real-money games,
                 exciting tournaments, and an immersive experience. <br />
                 Whether you are a beginner looking to learn the basics or a
-                seasoned player aiming for high-stakes tables, Finunique is the
+                seasoned player aiming for high-stakes tables,DigiHUb is the
                 perfect platform to test your skills. Join today and compete
                 with real players from across India!
               </p>
@@ -107,7 +107,7 @@ function Poker() {
               </h2>
               <p className="lead">
                 Poker comes in multiple exciting formats, each offering a unique
-                gameplay experience. On Finunique, players can enjoy the
+                gameplay experience. OnDigiHUb, players can enjoy the
                 following popular variations:
               </p>
               <ul className="list-unstyled mt-4">
@@ -257,9 +257,9 @@ function Poker() {
 
         {/* VIP Program */}
         <section className="mb-5 p-5 rounded"  style={{backgroundColor:"darkgrey"}}>
-          <h2 className="text-center mb-4">Why Play Poker on Finunique?</h2>
+          <h2 className="text-center mb-4">Why Play Poker onDigiHUb?</h2>
           <p className="align-self-center">
-            Finunique is the ultimate destination for Poker enthusiasts. Here’s
+           DigiHUb is the ultimate destination for Poker enthusiasts. Here’s
             why:
           </p>
           <div className="row g-4">
@@ -314,7 +314,7 @@ function Poker() {
                   <div className="card-body text-center">
                     <h5>User-Friendly Interface</h5>
                     <p>
-                      Play seamlessly on both the Finunique app and website,
+                      Play seamlessly on both theDigiHUb app and website,
                       designed for a smooth gaming experience.
                     </p>
                   </div>
@@ -334,7 +334,7 @@ function Poker() {
             </span>
           </div>
           <p className="fs-4 pt-3 dancing-script">
-            Join Finunique today and experience Poker like never before!
+            JoinDigiHUb today and experience Poker like never before!
           </p>
         </section>
       </div>

@@ -29,7 +29,7 @@ export default function Pointsrummy() {
                         <div className='content'>
                             <h2>Introduction</h2>
                             <p>Points Rummy is the most fast-paced and action-packed version of Rummy, played in a single round where players compete to form valid sequences and sets before their opponents. Unlike Pool or Deals Rummy, where games stretch over multiple rounds, Points Rummy ensures instant results, making it a favorite among players who enjoy quick gameplay and instant gratification.
-                                At FinuniqueRummy , we bring you the most seamless and engaging Points Rummy experience, allowing you to play with real players, test your skills, and win exciting rewards. The simplicity of the format makes it suitable for both beginners and seasoned players. Whether you have a few minutes to spare or want to sharpen your skills through rapid gameplay, Points Rummy is the perfect choice.
+                                At DigihubRummy , we bring you the most seamless and engaging Points Rummy experience, allowing you to play with real players, test your skills, and win exciting rewards. The simplicity of the format makes it suitable for both beginners and seasoned players. Whether you have a few minutes to spare or want to sharpen your skills through rapid gameplay, Points Rummy is the perfect choice.
                             </p>
                             <p>The game’s straightforward yet strategic nature requires sharp decision-making, quick thinking, and the ability to analyze opponents’ moves. Each point carries a pre-decided monetary value, and winnings are calculated based on the opponents' total points. The player who makes the first valid declaration wins, and the remaining players are penalized based on their ungrouped cards.
                                 If you are looking for an engaging Rummy experience that offers excitement, competition, and rewards in a short span of time, Points Rummy on Fiunique
@@ -210,9 +210,9 @@ export default function Pointsrummy() {
                 </div>
                 <div className='row bg-light rounded p-3 mb-4 pointscardrow'>
                     <div className='col-md-12'>
-                        <h4>Why Play Points Rummy on Finunique?
+                        <h4>Why Play Points Rummy onDigiHUb?
                         </h4>
-                        <p>If you’re looking for the best Points Rummy experience, Finunique is the ultimate platform. Here’s why thousands of players prefer us:
+                        <p>If you’re looking for the best Points Rummy experience,DigiHUb is the ultimate platform. Here’s why thousands of players prefer us:
                         </p>
 
                     </div>
@@ -270,15 +270,15 @@ export default function Pointsrummy() {
                             </div>
                         </div>
                     </div>
-                    <p className='my-4' style={{ fontSize: "16px" }}>At Finunique , we don’t just offer a game—we provide an immersive experience where skill meets opportunity</p>
+                    <p className='my-4' style={{ fontSize: "16px" }}>AtDigiHUb , we don’t just offer a game—we provide an immersive experience where skill meets opportunity</p>
                 </div>
                 <div className='row'>
                     <div className='col-md-12'>
                         <h4>Final Thoughts</h4>
                         <p>Points Rummy is an electrifying blend of strategy, skill, and quick thinking, making it a must-play for card game enthusiasts. Its fast gameplay and straightforward rules make it an ideal choice for those looking to enjoy short yet intense gaming sessions.
-                            With platforms like Finunique, you can enjoy the best Points Rummy experience in a fair, secure, and rewarding environment. Whether you are playing for fun or to win big, mastering the game’s rules and strategies will give you a significant advantage.
+                            With platforms likeDigiHUb, you can enjoy the best Points Rummy experience in a fair, secure, and rewarding environment. Whether you are playing for fun or to win big, mastering the game’s rules and strategies will give you a significant advantage.
                         </p>
-                        <b>So, why wait? Sign up on Finunique today and start playing Points Rummy like a pro!
+                        <b>So, why wait? Sign up onDigiHUb today and start playing Points Rummy like a pro!
                         </b>
                     </div>
 

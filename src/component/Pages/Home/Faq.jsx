@@ -35,12 +35,12 @@ export default function Faq() {
         <div class="accordion-item my-3 border-top">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    How do I win money in these games on Finunique?
+                    How do I win money in these games onDigiHUb?
                 </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    On Finunique, there are more than 30+ games to play and win money. There are a variety of games to choose from- casual games to fantasy sports, and card games. Pick your preferred game, choose a cash contest, and defeat your opponents to win money in real cash games.
+                    OnDigiHUb, there are more than 30+ games to play and win money. There are a variety of games to choose from- casual games to fantasy sports, and card games. Pick your preferred game, choose a cash contest, and defeat your opponents to win money in real cash games.
                 </div>
             </div>
         </div>
@@ -52,7 +52,7 @@ export default function Faq() {
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    No, not all games at Finunique are free. However, there are freeroll tournaments and several free-to-play games where you can win cash prizes. Some of the money-winning games require an entry fee. Always be on the lookout for app offers and tournaments on Finunique.
+                    No, not all games atDigiHUb are free. However, there are freeroll tournaments and several free-to-play games where you can win cash prizes. Some of the money-winning games require an entry fee. Always be on the lookout for app offers and tournaments onDigiHUb.
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@ export default function Faq() {
             </h2>
             <div id="collapsefour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    Yes. You can download the Finunique app on your mobile to play real money games. Choose the game you want to play and win cash prizes!
+                    Yes. You can download theDigiHUb app on your mobile to play real money games. Choose the game you want to play and win cash prizes!
                 </div>
             </div>
         </div>
@@ -76,33 +76,33 @@ export default function Faq() {
             </h2>
             <div id="collapsefive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    Once you log on to the Finunique app, there are categorizations that show which games are free and which games require an entry fee. You can play real cash games to win real money. Note: some free games also offer a chance to win cash prizes on Finunique.
+                    Once you log on to theDigiHUb app, there are categorizations that show which games are free and which games require an entry fee. You can play real cash games to win real money. Note: some free games also offer a chance to win cash prizes onDigiHUb.
                 </div>
             </div>
         </div>
         <div class="accordion-item my-3 border-top">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
-                    How do I deposit money into my account for real cash games on Finunique?
+                    How do I deposit money into my account for real cash games onDigiHUb?
                 </button>
             </h2>
             <div id="collapsesix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    You can deposit money into your Finunique wallet very easily. First, create an account on Finunique and sign up. Next, go to your Finunique wallet and tap on 'Add Cash' to deposit cash into your account through various methods like Paytm and UPI.
+                    You can deposit money into yourDigiHUb wallet very easily. First, create an account onDigiHUb and sign up. Next, go to yourDigiHUb wallet and tap on 'Add Cash' to deposit cash into your account through various methods like Paytm and UPI.
                 </div>
             </div>
         </div>
         <div class="accordion-item my-3 border-top">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
-                    How do I withdraw my winnings from real cash games on Finunique?
+                    How do I withdraw my winnings from real cash games onDigiHUb?
                 </button>
             </h2>
             <div id="collapseseven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    You can withdraw winnings of the real cash games from your Finunique wallet instantly. Follow these steps to withdraw cash:
+                    You can withdraw winnings of the real cash games from yourDigiHUb wallet instantly. Follow these steps to withdraw cash:
 
-                    Open the Finunique app
+                    Open theDigiHUb app
                     Go to the "Wallet" section
                     Once you reach there, tap on the Withdraw icon
                     There you go! Your cash has been withdrawn instantly and successfully
@@ -117,7 +117,7 @@ export default function Faq() {
             </h2>
             <div id="collapseeight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    Yes. The player has to be at least 18 years of age to play real money games on Finunique.
+                    Yes. The player has to be at least 18 years of age to play real money games onDigiHUb.
                 </div>
             </div>
         </div>
@@ -129,11 +129,11 @@ export default function Faq() {
             </h2>
             <div id="collaps9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    Here are some strategies that you can use to win cash prizes and win money on Finunique:
+                    Here are some strategies that you can use to win cash prizes and win money onDigiHUb:
 
-                    <b>Choosing the right games to win money:</b> Play the games that you are most familiar with and choose the game accordingly. On Finunique, you can play over 60+ real money games in various categories. There are casual games, card games, fantasy sports games a variety of games to choose from.
-                    <b>Practice free games:</b>  Before playing money-winning games, you can practice free games on Finunique. Some games have the "Free to Play" option that you can try and perfect your gaming skills. Once you're confident to play real cash games, pick a preferred game to win cash prizes.
-                    <b>Look out for bonus offers:</b> Finunique provides a welcome bonus and other offers once you sign in. There are specific tournament offers in many categories where you can play games and win.
+                    <b>Choosing the right games to win money:</b> Play the games that you are most familiar with and choose the game accordingly. OnDigiHUb, you can play over 60+ real money games in various categories. There are casual games, card games, fantasy sports games a variety of games to choose from.
+                    <b>Practice free games:</b>  Before playing money-winning games, you can practice free games onDigiHUb. Some games have the "Free to Play" option that you can try and perfect your gaming skills. Once you're confident to play real cash games, pick a preferred game to win cash prizes.
+                    <b>Look out for bonus offers:</b>DigiHUb provides a welcome bonus and other offers once you sign in. There are specific tournament offers in many categories where you can play games and win.
                     <b>Begin with a fixed amount:</b> Set aside a fixed amount that you can use to play for every gaming session. Set a consistent bankroll strategy. Once you realize that you're reaching the limit, either take control of the game or quit. Investing more money in a game that you're losing might lead to more losses. Practice more on the app and try the next time. To win money, you can also try out the free games or practice at a smaller table. One of the most important aspects of real cash games is to learn to manage funds properly.
                     <b>Start with a small stake: </b>Another tip to win money in real cash games is to begin your games with smaller stakes and then slowly raise them once you can play and win big. This is useful, especially in the case of card games. Playing at smaller stakes means smaller losses, and if things work out well, you can win too. You can master all the skill-based games on a low bankroll. Do not go for a budget that is beyond your limit just for a chance to win.
                     <b>Patience and Discipline is the key:</b> One of the key elements of winning real money-winning games is to stay patient and observe the game. If you are a beginner, being patient and disciplined is one of the best ways to win money. Each game requires extreme focus and attention. While winning or losing, people might be under confidence or be overconfident and that is when you make the maximum mistakes. It is essential to stay attentive, focused and dedicated to win cash prizes.
@@ -143,24 +143,24 @@ export default function Faq() {
         <div class="accordion-item my-3 border-top">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collaps10" aria-expanded="false" aria-controls="collaps10">
-                    Can I transfer my in-game winnings to real cash online on Finunique?
+                    Can I transfer my in-game winnings to real cash online onDigiHUb?
                 </button>
             </h2>
             <div id="collaps10" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    Yes, you can transfer your in-game winnings to real cash very easily. The withdrawal process at Finunique is very simple. You can withdraw your winnings instantly using any of the payment methods, such as Paytm, Amazon Pay, UPI, or Bank Transfer.
+                    Yes, you can transfer your in-game winnings to real cash very easily. The withdrawal process atDigiHUb is very simple. You can withdraw your winnings instantly using any of the payment methods, such as Paytm, Amazon Pay, UPI, or Bank Transfer.
                 </div>
             </div>
         </div>
         <div class="accordion-item my-3 border-top">
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collaps11" aria-expanded="false" aria-controls="collaps11">
-                    How does Finunique ensure safety and fair play while playing online money games?
+                    How doesDigiHUb ensure safety and fair play while playing online money games?
                 </button>
             </h2>
             <div id="collaps11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    The Fairplay policy at Finunique ensures that all players have a fair and equal opportunity to win at online games. Finunique platform ensures that players are seated randomly, and the algorithm monitors any suspicious activity of collusion. Finunique also uses an SSL security system to protect the identity and personal information. Such details are fully encrypted to prevent security and data breaches.
+                    The Fairplay policy atDigiHUb ensures that all players have a fair and equal opportunity to win at online games.DigiHUb platform ensures that players are seated randomly, and the algorithm monitors any suspicious activity of collusion.DigiHUb also uses an SSL security system to protect the identity and personal information. Such details are fully encrypted to prevent security and data breaches.
                 </div>
             </div>
         </div>

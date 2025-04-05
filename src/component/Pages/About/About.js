@@ -20,18 +20,18 @@ export default function About() {
       <div className="container">
         <div className="col-md-12">
           <div className="heading text-left mb-4 mt-5 pt-5">
-            <h2>About Finunique</h2>
+            <h2>AboutDigiHUb</h2>
           </div>
           <div className="about-content">
             <h4 className="mt-5">Introduction</h4>
             <p>
-              Welcome to FINUNIQUERUMMY , India’s premier skill-based gaming platform, where passion meets technology to create an unmatched gaming experience. FINUNIQUE SMALL PVT LTD was established in 2024 with a vision to revolutionize the online gaming industry in India. Our platform provides a secure and engaging environment where players can compete in Rummy, Poker, and Pool games while testing and refining their skills. We are committed to delivering a seamless gaming experience with cutting-edge technology, ensuring fairness, transparency, and the highest level of security.
+              Welcome to DigihubRummy , India’s premier skill-based gaming platform, where passion meets technology to create an unmatched gaming experience. Digihub Tech Solutions Pvt Ltd was established in 2024 with a vision to revolutionize the online gaming industry in India. Our platform provides a secure and engaging environment where players can compete in Rummy, Poker, and Pool games while testing and refining their skills. We are committed to delivering a seamless gaming experience with cutting-edge technology, ensuring fairness, transparency, and the highest level of security.
             </p>
             <h4 className="mt-5">
               Our Vision
             </h4>
             <p>
-              At FINUNIQUE, we believe in fostering a gaming culture that is fair, transparent, and rewarding. Our goal is to empower players by offering them a world-class gaming experience that is both entertaining and skill-driven. We are committed to setting industry benchmarks in terms of security, innovation, and customer satisfaction. Our vision is to create a digital space where players can hone their skills, compete with others, and enjoy an environment built on trust and credibility.
+              AtDigiHUb, we believe in fostering a gaming culture that is fair, transparent, and rewarding. Our goal is to empower players by offering them a world-class gaming experience that is both entertaining and skill-driven. We are committed to setting industry benchmarks in terms of security, innovation, and customer satisfaction. Our vision is to create a digital space where players can hone their skills, compete with others, and enjoy an environment built on trust and credibility.
             </p>
             <h4 className="mt-5">What We Offer
             </h4>
@@ -74,7 +74,7 @@ export default function About() {
                 </li>
               </ul>
             </div>
-            <h4 className="mt-5">Why Choose Finunique?</h4>
+            <h4 className="mt-5">Why ChooseDigiHUb?</h4>
             <div>
               <ul className="about-list mt-3 mb-3 ps-4">
                 <li>
@@ -90,7 +90,7 @@ export default function About() {
                   <b>24/7 Customer Support</b>Our dedicated support team is available 24/7 to assist with any queries, ensuring a smooth experience for every user. Whether you need help with account setup, transactions, or game rules, our expert customer support team is always ready to provide assistance. We value our players and are committed to delivering top-notch service to resolve concerns promptly and efficiently.
                 </li>
                 <li>
-                  <b> Legally Compliant and Certified</b>FINUNIQUE operates in compliance with Indian gaming laws, offering legal and skill-based gaming to all eligible players across the country. Our platform adheres to all legal regulations, ensuring that players can enjoy their gaming experience without any concerns about legality. We also obtain necessary certifications and licenses to reinforce our commitment to providing a secure and legally compliant gaming environment.
+                  <b> Legally Compliant and Certified</b>DigiHUb operates in compliance with Indian gaming laws, offering legal and skill-based gaming to all eligible players across the country. Our platform adheres to all legal regulations, ensuring that players can enjoy their gaming experience without any concerns about legality. We also obtain necessary certifications and licenses to reinforce our commitment to providing a secure and legally compliant gaming environment.
                 </li>
               </ul>
             </div>

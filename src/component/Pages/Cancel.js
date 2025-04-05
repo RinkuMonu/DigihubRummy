@@ -16,7 +16,7 @@ export default function Cancel() {
             <div className='heading'>
               <h2 className='text-center'>
                 Returns, Refunds & Cancellation</h2>
-              <p className='text-center px-5' style={{ fontSize: "12px" }}>At  FinuniqueRummy, we prioritize customer satisfaction and transparency in all our financial transactions. Our Refund & Return Policy ensures a seamless experience for our users while maintaining compliance with our legal and operational guidelines.
+              <p className='text-center px-5' style={{ fontSize: "12px" }}>At  DigihubRummy, we prioritize customer satisfaction and transparency in all our financial transactions. Our Refund & Return Policy ensures a seamless experience for our users while maintaining compliance with our legal and operational guidelines.
               </p>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default function Cancel() {
               <li><b>3. Return Policy</b>
               </li>
             </ul>
-            <p>Since FinuniqueRummy operates in the digital gaming industry, we do not offer any return policy for deposited amounts once they are used for gaming activities. Users must exercise caution and be responsible while making deposits.</p>
+            <p>Since DigihubRummy operates in the digital gaming industry, we do not offer any return policy for deposited amounts once they are used for gaming activities. Users must exercise caution and be responsible while making deposits.</p>
             <p>Our platform provides sufficient information about deposit policies, and users are advised to make informed decisions before adding funds. Since digital transactions are irreversible in nature, once a user participates in a game using deposited funds, the transaction becomes final. We encourage users to review their deposits carefully before confirming them.
             </p>
 
@@ -100,7 +100,7 @@ export default function Cancel() {
               </li>
             </ul>
             <ul className="about-list mt-3 mb-3 ps-4">
-              <li>Contact our Customer Support Team at <a href='mailto:info@finuniquerummy.com'>info@finuniquerummy.com</a>  or call us at <a href='tel:7297026119'>7297026119</a> . Our support team is available 24/7 to assist with refund-related queries and provide necessary guidance.
+              <li>Contact our Customer Support Team at <a href='mailto:info@DigihubRummy.com'>info@DigihubRummy.com</a>  or call us at <a href='tel:7297026119'>7297026119</a> . Our support team is available 24/7 to assist with refund-related queries and provide necessary guidance.
               </li>
               <li>Provide details such as transaction ID, date, amount, and the issue encountered. Accurate information helps expedite the verification process and ensures a quick resolution.
               </li>
@@ -132,7 +132,7 @@ export default function Cancel() {
           <div className='col-md-12'>
             <h4>Cancellation Policy
             </h4>
-            <p>At FinuniqueRummy, we are committed to providing a seamless gaming experience with transparent policies. Our Cancellation Policy outlines the conditions under which users can cancel transactions or services and the implications of such cancellations.
+            <p>At DigihubRummy, we are committed to providing a seamless gaming experience with transparent policies. Our Cancellation Policy outlines the conditions under which users can cancel transactions or services and the implications of such cancellations.
             </p>
             <div>
               <ul className="mt-3 mb-3 ps-4">
@@ -152,7 +152,7 @@ export default function Cancel() {
                   </p>
                 </li>
                 <li><b>4. Account Cancellation</b>
-                  <p>Users may request to cancel or deactivate their account at any time by reaching out to Customer Support at <a href='mailto:info@finuniquerummy.com'>info@finuniquerummy.com</a>. Account cancellation means users will lose access to their gaming history, funds, and rewards. Before proceeding, users must withdraw any remaining balance as funds cannot be recovered post-cancellation. Suspended or permanently banned accounts due to policy violations are not eligible for cancellation. We encourage responsible gaming and offer self-exclusion options for users who wish to take a break instead of permanent cancellation. Once an account is deactivated, users must complete a verification process to reactivate it in the future, ensuring user security and compliance.
+                  <p>Users may request to cancel or deactivate their account at any time by reaching out to Customer Support at <a href='mailto:info@DigihubRummy.com'>info@DigihubRummy.com</a>. Account cancellation means users will lose access to their gaming history, funds, and rewards. Before proceeding, users must withdraw any remaining balance as funds cannot be recovered post-cancellation. Suspended or permanently banned accounts due to policy violations are not eligible for cancellation. We encourage responsible gaming and offer self-exclusion options for users who wish to take a break instead of permanent cancellation. Once an account is deactivated, users must complete a verification process to reactivate it in the future, ensuring user security and compliance.
                   </p>
                 </li>
                 <li><b>5. Subscription or Promotional Offer Cancellation
@@ -166,7 +166,7 @@ export default function Cancel() {
                   <p>If users meet the criteria for cancellation, they should follow these steps:</p>
                   <ul className='ps-5'>
                     <li className='list-style-type-decimal'>
-                      Contact our Customer Support Team via email at<a href='mailto: info@finuniquerummy.com'> info@finuniquerummy.com</a> or call <a href='tel:7297026119'>7297026119</a>.
+                      Contact our Customer Support Team via email at<a href='mailto: info@DigihubRummy.com'> info@DigihubRummy.com</a> or call <a href='tel:7297026119'>7297026119</a>.
                     </li>
                     <li className='list-style-type-decimal'>
                       Provide the relevant details such as transaction ID, date, and reason for cancellation.

@@ -65,7 +65,7 @@ function Texas() {
                         opportunities to bluff, raise, or fold, adding to the
                         thrill and competitiveness of the game.
                         <br />
-                        At Finunique, players can enjoy real-money Texas Hold’em
+                        AtDigiHUb, players can enjoy real-money Texas Hold’em
                         Poker in a secure, fair, and exciting environment.
                         Whether you are a beginner or an experienced player, our
                         platform provides the best Poker action, with cash games
@@ -258,9 +258,9 @@ function Texas() {
                   Whether you’re looking for casual fun or high-stakes
                   competition, Texas Hold’em offers the perfect balance of
                   excitement, skill, and strategic depth. <br />
-                  With Finunique, players get access to the best Poker action in
+                  WithDigiHUb, players get access to the best Poker action in
                   India, where they can compete, win, and master the art of
-                  Poker. Join Finunique today, sharpen your Poker skills, and
+                  Poker. JoinDigiHUb today, sharpen your Poker skills, and
                   take on the thrill of Texas Hold’em like a pro!
                 </p>
               </div>
@@ -414,10 +414,10 @@ function Texas() {
       <div class="container mt-4 p-5" style={{ backgroundColor: "#09333c" }}>
         <h2 class="text-center mb-4 text-white">
           {" "}
-          Why Play Texas Hold’em on Finunique?
+          Why Play Texas Hold’em onDigiHUb?
         </h2>
         <p className="text-white text-center pb-3">
-          Finunique is the ultimate destination for Texas Hold’em Poker,
+         DigiHUb is the ultimate destination for Texas Hold’em Poker,
           offering an unmatched gaming experience with:
         </p>
         <div class="row">

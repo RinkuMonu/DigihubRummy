@@ -58,7 +58,7 @@ export default function PoolRummy() {
                         </h2>
                         <p>Pool Rummy is one of the most popular variants of Indian Rummy, offering an exciting blend of skill, strategy, and entertainment. Unlike Points Rummy, where each game is independent, Pool Rummy is a long-format game where players continue playing until they reach a pre-set points limit, such as 101 or 201 points. The goal is to avoid accumulating the threshold points, as the player who reaches the limit is eliminated from the game.
                             This format ensures that only the most skilled and strategic players survive until the end, making Pool Rummy a test of consistency, patience, and decision-making. The game can be played with 2 to 6 players using one or two standard decks of 52 cards, including jokers.
-                            On Finunique, Pool Rummy is designed for a fair, secure, and seamless gaming experience, allowing players to compete for real cash prizes or enjoy free practice games.
+                            OnDigiHUb, Pool Rummy is designed for a fair, secure, and seamless gaming experience, allowing players to compete for real cash prizes or enjoy free practice games.
                         </p>
 
                     </div>
@@ -256,11 +256,11 @@ export default function PoolRummy() {
                 </p>
                 <div className='row my-4'>
                     <div className='col-md-12'>
-                        <h4>Why Play Pool Rummy on Finunique?
+                        <h4>Why Play Pool Rummy onDigiHUb?
                         </h4>
-                        <p>Finunique is the best platform for playing Pool Rummy, offering a secure, fair, and high-quality gaming experience for all skill levels.
+                        <p>DigiHUb is the best platform for playing Pool Rummy, offering a secure, fair, and high-quality gaming experience for all skill levels.
                         </p>
-                        <b>Reasons to Play Pool Rummy on Finunique :
+                        <b>Reasons to Play Pool Rummy onDigiHUb :
                         </b>
                     </div>
                     <div className='col-md-6 mt-4'>
@@ -282,7 +282,7 @@ export default function PoolRummy() {
                         <img src='./images/compressed_poker-chips-playing-cards-casino-dice-table (1).jpg' className='img-fluid' />
 
                     </div>
-                    <p className='my-4'>Join Pool Rummy on Finunique and experience the thrill of strategic card gaming like never before!</p>
+                    <p className='my-4'>Join Pool Rummy onDigiHUb and experience the thrill of strategic card gaming like never before!</p>
                 </div>
                 <div className='row my-4 align-items-center'>
                     <div className='col-md-12 text-center my-4'>
@@ -295,7 +295,7 @@ export default function PoolRummy() {
                     <div className='col-md-6'>
                         <p>Pool Rummy is a game of skill, patience, and smart decision-making. Unlike Points Rummy, which ends in one round, Pool Rummy offers longer gameplay, allowing players to recover from losses and apply strategies over multiple rounds.
                             This game is ideal for casual players and serious Rummy enthusiasts who enjoy long-term strategic play rather than quick rounds. With the right approach, any player can master Pool Rummy and enjoy big wins.
-                            If you love skill-based card games, Pool Rummy is a must-try! Sign up on Finunique and play against the best players today.</p>
+                            If you love skill-based card games, Pool Rummy is a must-try! Sign up onDigiHUb and play against the best players today.</p>
 
                     </div>
                 </div>

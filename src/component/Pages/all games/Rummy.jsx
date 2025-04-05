@@ -78,7 +78,7 @@ function Rummy() {
             <div className='col-md-6'>
               <h4>The History and Evolution of Rummy</h4>
               <p>Rummy has an interesting history, with its origins tracing back to several card games played across different cultures. Some believe that Rummy evolved from the Spanish game Conquian, which dates back to the 16th century, while others suggest its roots lie in the Chinese game Mahjong. Over time, the game spread across the world, adapting to regional variations and becoming a popular pastime.
-                In India, Rummy has gained massive popularity, especially after the introduction of online gaming platforms. With digital advancements, players can now access different Rummy formats on their smartphones, tablets, and desktops. Platforms like Finunique have revolutionized the way Rummy is played, offering a secure, competitive, and rewarding environment for players of all skill levels.
+                In India, Rummy has gained massive popularity, especially after the introduction of online gaming platforms. With digital advancements, players can now access different Rummy formats on their smartphones, tablets, and desktops. Platforms likeDigiHUb have revolutionized the way Rummy is played, offering a secure, competitive, and rewarding environment for players of all skill levels.
               </p>
 
             </div>
@@ -232,7 +232,7 @@ function Rummy() {
           </div>
           <div className="row mb-3 mt-5">
             <div className="col-md-12">
-              <h4>Why Play Rummy on Finunique?
+              <h4>Why Play Rummy onDigiHUb?
               </h4>
               <p>Finuinque is India’s most trusted online Rummy platform, offering a seamless and rewarding gaming experience. Here’s why thousands of players choose us for their Rummy journey:
               </p>
@@ -261,7 +261,7 @@ function Rummy() {
                     <b>24/7 Customer Support –</b>
                     Our dedicated support team is available around the clock to assist with any queries or issues.
                   </li>
-                  <p>At Finunique , we don’t just offer a game; we provide an unforgettable Rummy experience that is fair, competitive, and rewarding.</p>
+                  <p>AtDigiHUb , we don’t just offer a game; we provide an unforgettable Rummy experience that is fair, competitive, and rewarding.</p>
                 </ul>
               </div>
 
@@ -275,7 +275,7 @@ function Rummy() {
             <div className="col-md-12">
               <h4>Final Thoughts</h4>
               <p>Rummy is more than just a game; it is a mental exercise that enhances logical thinking, patience, and decision-making skills. Whether you are playing for fun or competing for real cash prizes, Rummy offers endless excitement and opportunities to improve your strategic abilities.
-                With Finunique, you can enjoy a secure and fair gaming environment where every move counts. So why wait? Sign up today and start your journey to becoming a Rummy champion!
+                WithDigiHUb, you can enjoy a secure and fair gaming environment where every move counts. So why wait? Sign up today and start your journey to becoming a Rummy champion!
               </p>
             </div>
 
