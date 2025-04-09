@@ -144,12 +144,22 @@ padding:20px;
 text-align: center;
 border-radius: 10px;
 }
+.hero-img {
+  margin-top: 35px;
+}
 @media (max-width:768px){
   .game-banner{
     width: 100%;
     object-fit: fill;
     background-position: center;
     background-size: cover;
-    height: 500px !important;
+    background-attachment: fixed;
+    background-position: right !important;
+  }
+  .about_section .hero-img img{
+      height: 30vh;
+  }
+  img[alt="DigiHUb-logo"]{
+    width: 30px !important;
   }
 }

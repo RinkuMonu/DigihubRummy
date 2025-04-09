@@ -33,13 +33,14 @@ const ContactSupport = () => {
           backgroundImage: 'url("./images/Banner/Contact Us-01.jpg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
-          height: '50vh',
-          position: 'relative'
+          height: '70vh',
+          position: 'relative',
+          backgroundRepeat:"no-repeat"
         }}
       >
       </div>
     
-    <Container className="py-5 mt-5">
+    <Container className="py-5">
       <Row className="justify-content-center align-items-center">
         {/* Left Side: Contact Info */}
         <Col lg={5} className="mb-4">
