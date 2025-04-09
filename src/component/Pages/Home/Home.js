@@ -24,7 +24,7 @@ export default function Home() {
             {/* First Section */}
 
             <div className="d-flex justify-content-center align-items-center vh-20 bg-light mt-3">
-                <a href="/digihubuniqu.apk" download>
+                <a href="/digihubuniquer.apk" download>
                     <button
                         className="btn btn-primary"
                         style={{
@@ -53,8 +53,6 @@ export default function Home() {
                     What Makes Us Different
                 </p>
             </section>
-
-
             {/* Second Section */}
             <section className="py-3 d-flex justify-content-center bg-light">
                 <div className="d-flex flex-row gap-3 align-items-center px-3 headingmedia">
@@ -67,7 +65,6 @@ export default function Home() {
                             background: "linear-gradient(to right, #fff, #313184)",
                         }}
                     ></div>
-
                     <h2
                         className="d-flex text-center justify-content-center align-items-center fw-bold text-uppercase"
                         style={{
@@ -81,8 +78,6 @@ export default function Home() {
                     >
                        DigiHUb Games
                     </h2>
-
-
                     {/* Right Line */}
                     <div
                         className="rounded"
