@@ -3,14 +3,14 @@ import "../Home/Home.css";
 export default function About() {
   return (
     <>
-      <div className="conatiner-fluid">
+      <div className="conatiner-fluid about_section">
         <div className="row">
-          <div className="col-md-12 ps-0 mt-5">
+          <div className="col-md-12 px-0">
             <div className="about-banner">
               <div className="hero-img">
                 <img
                   src="./images/Banner/about.jpg"
-                  className="img-fluid"
+                  className="img-fluid" style={{width:"-webkit-fill-available"}}
                 />
               </div>
             </div>

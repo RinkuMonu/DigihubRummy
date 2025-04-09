@@ -4,7 +4,7 @@ import "../Home/Home.css";
 export default function Cancel() {
     return (
         <>
-            <div className='privacypolicy_section' style={{ backgroundImage: "url('./images/blogmoney002-01.jpg')", backgroundSize: "contain", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed", height: "80vh" }}>
+            <div className='privacypolicy_section' style={{ backgroundImage: "url('./images/blogmoney002-01.jpg')", backgroundSize: "contain", backgroundPosition: "center", alignContent: "center", backgroundAttachment: "fixed", height: "80vh",  backgroundRepeat:"no-repeat" }}>
                 <div className='container'>
                     <div className='row pt-3'>
                     </div>
@@ -389,7 +389,7 @@ export default function Cancel() {
                                     10♥️ is the Wild Joker 8♦️ 8♠️ 8♥️ | A♦️ A♠️ A♥️ | 9♥️ 9♣️ 9♥️ | 5♦️ 5♠️ 5♥️
                                     10♥️ | There are no sequences in this example. In order to make a
                                     valid declaration, there has to be at least two sequences, out
-                of which one has to be a pure sequence. >
+                of which one has to be a pure sequence. 
                                 </p>
                             </ul>
                             <ul className="ps-5">

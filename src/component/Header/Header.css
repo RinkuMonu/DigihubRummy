@@ -80,7 +80,7 @@ li {
 }
 
 .navbar {
-    box-shadow: 0 5px 4px rgb(146 161 176 / 15%);
+    /* box-shadow: 0 5px 4px rgb(146 161 176 / 15%); */
     position: sticky;
     top: 0;
     background: var(--white);
